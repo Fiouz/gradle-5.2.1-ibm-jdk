@@ -1,0 +1,1 @@
+logger.lifecycle("Hello world")
